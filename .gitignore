@@ -3,6 +3,7 @@ lib/
 
 # CMake
 build/
+.idea/
 
 # XCode
 .DS_Store
